@@ -5,7 +5,7 @@ Public download repository for official reBar builds (formerly Remocode Bar).
 
 ## 下载 / Download
 
-[下载 macOS Apple Silicon（arm64）](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.19-macos-arm64.dmg) / [Download Apple Silicon (arm64)](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.19-macos-arm64.dmg)
+[下载 macOS Apple Silicon（arm64）](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.20-macos-arm64.dmg) / [Download Apple Silicon (arm64)](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.20-macos-arm64.dmg)
 
 从 v2.10.15 起，新版只提供 Apple Silicon arm64 安装包。Intel 与 Universal 历史版本仍可在旧 Release 中下载。
 Starting with v2.10.15, new releases provide Apple Silicon arm64 installers only. Historical Intel and Universal packages remain available in previous releases.
