@@ -5,10 +5,15 @@ Public download repository for official reBar builds (formerly Remocode Bar).
 
 ## 下载 / Download
 
-[下载 macOS Apple Silicon（arm64）](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.20-macos-arm64.dmg) / [Download Apple Silicon (arm64)](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.20-macos-arm64.dmg)
+[下载 macOS Apple Silicon（arm64）](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.21-macos-arm64.dmg) / [Download Apple Silicon (arm64)](https://github.com/BlueOriginAI/reBar-releases/releases/latest/download/reBar-v2.10.21-macos-arm64.dmg)
 
 从 v2.10.15 起，新版只提供 Apple Silicon arm64 安装包。Intel 与 Universal 历史版本仍可在旧 Release 中下载。
 Starting with v2.10.15, new releases provide Apple Silicon arm64 installers only. Historical Intel and Universal packages remain available in previous releases.
+
+## 应用名称 / Application name
+
+从 v2.10.21 起，正式版应用为 `/Applications/reBar.app`。旧路径升级后请接受应用内“迁移并重启”提示，以更新启动器中的实际名称；选择稍后不会删除账号数据。若目标位置已有应用，迁移会停止而非覆盖。
+From v2.10.21, the production app is installed at `/Applications/reBar.app`. After updating a legacy installation, accept the migration-and-restart prompt to update the actual launcher name. Deferring preserves account data; migration stops rather than overwriting an occupied destination.
 
 ## 自动更新 / Automatic updates
 
